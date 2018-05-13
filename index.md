@@ -2,5 +2,11 @@
 title: Revelbar Inc.
 layout: default
 ---
-# Hi! I am a revel bar!
-I am a good type of food to eat when you don't have a diet.
+# Revel Bar Studios
+Personal portfolio site for an aspiring medical doctor, physicist, and artist.
+
+## Currently
+Trying to finish up my physics degree in uni. I am in desperate need for an internship.
+
+## Recent Works
+None so far
