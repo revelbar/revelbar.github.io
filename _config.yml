@@ -3,5 +3,5 @@ theme: minima
 description: Blog and portfolio site for an aspiring medical doctor, physicist, and artist.
 show_excerpts: true
 header_pages:
- - about.html
- - portfolio.html
+ - about.md
+ - portfolio.md
