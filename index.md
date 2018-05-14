@@ -2,9 +2,4 @@
 title: Revelbar Studios
 layout: home
 ---
-Personal portfolio site and blog for an aspiring medical doctor, physicist, and artist.
-
-## Currently
-1. Trying to finish up my physics degree in uni
-2. Looking for an internship
-3. Going through Daniel Shiffman's Nature of Code to learn JavaScript
+Testing testing 1 2 3
