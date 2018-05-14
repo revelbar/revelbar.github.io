@@ -1,6 +1,6 @@
 ---
 title: Revelbar Studios.
-layout: default
+layout: home
 ---
 # Revelbar Studios
 Personal portfolio site and blog for an aspiring medical doctor, physicist, and artist.
