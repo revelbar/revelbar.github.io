@@ -12,7 +12,7 @@ to the United Nations Millenium Development Goals.
 
 For this project, I would like to look into the correlation between internet usage and income per person and employment rate. 
 I got a lot of benefits from my access to (free!!!!) online resources. I don't think I would've survived my college education 
-without its help, and plenty of the skills I self-learned from it certainly got me farther in both my thesis and personal life. As such, I want to see whether access to internet is a big ingredient to social mobility. 
+without its help, and plenty of the skills I self-learned from it certainly got me farther in both my thesis and personal life. As such, I want to see whether access to internet is a big ingredient to citizen productivity. 
 
 I've added, as part of my personal code book, the following variables:
 
